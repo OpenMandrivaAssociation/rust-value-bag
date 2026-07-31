@@ -4,7 +4,7 @@
 %global crate value-bag
 
 Name:           rust-%{crate}
-Version:        1.0.0~alpha.6
+Version:        1.13.2
 Release:        1%{?dist}
 Summary:        Anonymous structured values
 
